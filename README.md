@@ -13,12 +13,13 @@ To install all dependencies
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\\
 
-If you want to add a new note click on the add button.\\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\
 
-If you want to edit a note, click on the content area of the note.\\
+If you want to add a new note click on the add button.\
 
-You have a maximun of 150 characters per note.\\
+If you want to edit a note, click on the content area of the note.\
 
-If you cant to delete a note, click on the trash button and confirm the pop up.\\
+You have a maximun of 150 characters per note.\
+
+If you cant to delete a note, click on the trash button and confirm the pop up.\
