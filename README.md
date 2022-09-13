@@ -1,4 +1,6 @@
-# Note app
+# Notes app
+
+This app implements local storage to store the notes you create.
 
 ## Available Scripts
 
